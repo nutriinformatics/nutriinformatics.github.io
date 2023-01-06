@@ -36,3 +36,30 @@ $brand-color: map-get($brand-colors, "orangered");
 $content-width: {{ site.content_width | default: '920px' }};
 
 @import "yat";
+
+// Montserrat fonts (see license at assets/fonts/OFL.txt)
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  src: url("{{ site.url }}/assets/fonts/Montserrat-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  src: url("{{ site.url }}/assets/fonts/Montserrat-Italic.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  src: url("{{ site.url }}/assets/fonts/Montserrat-Bold.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 700;
+  src: url("{{ site.url }}/assets/fonts/Montserrat-BoldItalic.ttf")  format("truetype");
+}
+

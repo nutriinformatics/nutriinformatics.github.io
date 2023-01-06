@@ -96,7 +96,7 @@ html {
   margin-right: 50px;
 
   .site-brand-inner {
-    @include relative-font-size(1.125);
+    @include relative-font-size(1.0);
     font-weight: $base-font-weight;
     letter-spacing: -1px;
     transition: 0.1s filter color;
@@ -114,7 +114,7 @@ html {
 }
 
 .site-nav {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.0);
   line-height: $header-height;
   position: absolute;
   right: 0;

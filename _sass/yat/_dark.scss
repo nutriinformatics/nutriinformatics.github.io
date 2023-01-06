@@ -32,7 +32,9 @@ html[data-theme="dark"]  {
   }
 
   blockquote {
-    border-left: 4px solid #484848;
+    color: $dark-text-color;
+    //border-left: 7px solid $brand-color;
+    background-color: $brand-color-dark;
   }
 
   table {
