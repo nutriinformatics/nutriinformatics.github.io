@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: infopage
 title: Contact
 banner:
   image: "/assets/images/banners/csm.jpg"
