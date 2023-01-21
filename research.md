@@ -1,5 +1,5 @@
 ---
-layout: framework
+layout: infopage
 title: Research
 banner:
   image: "/assets/images/banners/csm.jpg"

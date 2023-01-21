@@ -1,0 +1,13 @@
+name: Silvio Waschina
+image:
+  src: /assets/images/team/t_sw.png
+  alt: Photo of Silvio
+description: Group leader
+email: s.waschina@nutrinf.uni-kiel.de
+tel: +49 431 880-4681
+research_interests:
+  - Predictive metabolic flux modelling
+  - Computational challenges in metabolomics
+  - Multi-omics and longitudinal data analysis
+  - Personalized medicine
+  - Microbiome-mediated individuality in nutrition physiology

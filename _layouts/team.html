@@ -1,0 +1,25 @@
+---
+layout: framework
+hidden:
+  - related_posts
+sidebar:
+  - article-menu
+banner:
+  height: "42vh"
+---
+
+<div>
+  <section>
+
+    <ul>
+      {% for person in site.data.team %}
+      <b><a href="https://github.com/{{ person.name }}">
+        {{ person.name }}
+      </a></b>
+      <a href="mailto:{{ person.email | encode_email }}" title="Contact me">Contact me</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </section>
+</div>
