@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'jekyll-email-protect'
+gem 'jekyll-email-protect', group: :jekyll_plugins
 
