@@ -19,9 +19,9 @@ banner:
    <i>{{ person.description }}</i>
    <div>
      <b>Contact: </b>
-     <a href="mailto:{{ person.email | encode_email }}" title="Email">Email</a>
+     <a href="mailto:{{ person.email }}" title="Email">Email</a>
      &#xb7;
-     <a href="tel:{{ person.tel | encode_email}}" title="Phone contact number">Phone</a>
+     <a href="tel:{{ person.tel }}" title="Phone contact number">Phone</a>
    </div>
    
    {% if person contains "proj_title" %}
