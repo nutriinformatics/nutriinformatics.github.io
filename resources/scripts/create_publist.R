@@ -32,12 +32,22 @@ md_pub <- function(pubi) {
                                                                "</u>"), ref.authors)
   ref.authors <- paste(ref.authors, collapse = ", ")
   
-  ref.full <- paste0(ref.authors,".<br>",
-                     "[**",pubi$title,"**](",pubi$URL,")<br>",
-                     "*",pubi$`container-title`,"*. ", pubi$published$`date-parts`[1,1],". ",
-                     pubi$volume,
-                     ifelse("issue" %in% names(pubi),paste0("(",pubi$issue,")"),""),". ",
-                     "doi: ", pubi$DOI)
+  if(is.null(pubi$subtype) || pubi$subtype != "preprint") {
+    ref.full <- paste0(ref.authors,".<br>",
+                       "[**",pubi$title,"**](",pubi$URL,")<br>",
+                       "*",pubi$`container-title`,"*. ", pubi$published$`date-parts`[1,1],". ",
+                       pubi$volume,
+                       ifelse("issue" %in% names(pubi),paste0("(",pubi$issue,")"),""),". ",
+                       "doi: ", pubi$DOI)
+  } else {
+    ref.full <- paste0(ref.authors,".<br>",
+                       "[**",pubi$title,"**](",pubi$URL,")<br>",
+                       "(preprint) ",
+                       "*",pubi$institution[1,"name"],"*. ", pubi$published$`date-parts`[1,1],". ",
+                       "doi: ", pubi$DOI)
+  }
+  
+  
   
   return(ref.full)
 }

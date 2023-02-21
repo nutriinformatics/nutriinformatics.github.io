@@ -2,6 +2,10 @@
 layout: infopage
 title: Publications
 ---
+### 2023
+
+Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1101/2023.02.17.528811)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.02.17.528811
+
 ### 2022
 
 Jensen-Kroll J, Demetrowitsch T, Clawin-Rädecker I, Klempt M, <u>Waschina S</u>, Schwarz K.<br>[**Microbiota independent effects of oligosaccharides on Caco-2 cells -A semi-targeted metabolomics approach using DI-FT-ICR-MS coupled with pathway enrichment analysis**](http://dx.doi.org/10.3389/fmolb.2022.968643)<br>*Frontiers in Molecular Biosciences*. 2022. 9. doi: 10.3389/fmolb.2022.968643
