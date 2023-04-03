@@ -4,7 +4,7 @@ title: Publications
 ---
 ### 2023
 
-<u>Busche S</u>, Harris DMM, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1101/2023.03.23.532984)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.23.532984
+<u>Busche S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1101/2023.03.23.532984)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.23.532984
 
 Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Comparative metagenomics reveals host-specific functional adaptation of intestinal microbiota across hominids**](http://dx.doi.org/10.1101/2023.03.01.530589)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.01.530589
 

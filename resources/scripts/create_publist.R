@@ -3,7 +3,7 @@ library(zoo)
 
 group_members <- c("Busche S",
                    "Zimmermann S",
-                   "Harris D", "Harris DM",
+                   "Harris D", "Harris DM", "Harris DMM",
                    "Tassiello O",
                    "Pisarevskaja A",
                    "Waschina S")
