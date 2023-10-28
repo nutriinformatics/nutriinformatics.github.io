@@ -9,7 +9,7 @@ group_members <- c("Busche S", "Starke S",
                    "Waschina S")
 
 # retrieve pub info from crossref
-dois <- readLines("_site/resources/data/publication_dois.txt")
+dois <- readLines("resources/data/publication_dois.txt")
 pub <- cr_cn(dois, format = "citeproc-json")
 
 # extract dates for ordering
