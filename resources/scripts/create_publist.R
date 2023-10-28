@@ -1,7 +1,7 @@
 library(rcrossref)
 library(zoo)
 
-group_members <- c("Busche S",
+group_members <- c("Busche S", "Starke S",
                    "Zimmermann S",
                    "Harris D", "Harris DM", "Harris DMM",
                    "Tassiello O",

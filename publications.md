@@ -4,13 +4,13 @@ title: Publications
 ---
 ### 2023
 
+<u>Starke S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1038/s41396-023-01537-3)<br>*The ISME Journal*. 2023. . doi: 10.1038/s41396-023-01537-3
+
 Blesl A, Wurm P, <u>Waschina S</u>, Gröchenig HP, Novacek G, Primas C, Reinisch W, Kutschera M, Illiasch C, Hennlich B, Steiner P, Koch R, Tillinger W, Haas T, Reicht G, Mayer A, Ludwiczek O, Miehsler W, Steidl K, Binder L, Reider S, Watschinger C, Fürst S, Kump P, Moschen A, Aden K, Gorkiewicz G, Högenauer C.<br>[**Prediction of Response to Systemic Corticosteroids in Active UC by Microbial Composition—A Prospective Multicenter Study**](http://dx.doi.org/10.1093/ibd/izad126)<br>*Inflammatory Bowel Diseases*. 2023. . doi: 10.1093/ibd/izad126
 
 Effenberger M, <u>Waschina S</u>, Bronowski C, Sturm G, <u>Tassiello O</u>, Sommer F, Zollner A, Watschinger C, Grabherr F, Gstir R, Grander C, Enrich B, Bale R, Putzer D, Djanani A, Moschen AR, Zoller H, Rupp J, Schreiber S, Burcelin R, Lass-Flörl C, Trajanoski Z, Oberhuber G, Rosenstiel P, Adolph TE, Aden K, Tilg H.<br>[**A gut bacterial signature in blood and liver tissue characterizes cirrhosis and hepatocellular carcinoma**](http://dx.doi.org/10.1097/HC9.0000000000000182)<br>*Hepatology Communications*. 2023. 7(7). doi: 10.1097/hc9.0000000000000182
 
-<u>Busche S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1101/2023.03.23.532984)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.23.532984
-
-Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Comparative metagenomics reveals host-specific functional adaptation of intestinal microbiota across hominids**](http://dx.doi.org/10.1101/2023.03.01.530589)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.01.530589
+Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1101/2023.03.01.530589)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.01.530589
 
 Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1101/2023.02.17.528811)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.02.17.528811
 
