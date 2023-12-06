@@ -8,7 +8,7 @@ Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulric
 
 Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of bacterial predators drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1101/2023.11.20.567171)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.11.20.567171
 
-<u>Starke S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1038/s41396-023-01537-3)<br>*The ISME Journal*. 2023. . doi: 10.1038/s41396-023-01537-3
+<u>Starke S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1038/s41396-023-01537-3)<br>*The ISME Journal*. 2023. 17(12). doi: 10.1038/s41396-023-01537-3
 
 <u>Harris DMM</u>, Szymczak S, Schuchardt S, Labrenz J, Tran F, Welz L, Graßhoff H, Zirpel H, Sümbül M, Oumari M, Engelbogen N, Junker R, Conrad C, Thaçi D, Frey N, Franke A, Weidinger S, Rosenstiel P, Hoyer B, <u>Waschina S</u>, Schreiber S, Aden K.<br>[**Tryptophan wasting and disease activity as a systems phenomenon in inflammation – an analysis across 13 chronic inflammatory diseases**](http://dx.doi.org/10.1101/2023.08.25.554383)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.08.25.554383
 
