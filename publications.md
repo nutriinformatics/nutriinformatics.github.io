@@ -4,6 +4,8 @@ title: Publications
 ---
 ### 2023
 
+Rühlemann M, <u>Waschina S</u>, Wacker EM, Rausch P, Schaan A, Zafroon Z, Franzpötter K, Jacobs G, Ellinghaus D, Kruse R, Bergemalm D, Halfvarson J, Ziemann M, Görg S, Lieb W, Schreiber S, Poyet M, Bang C, Franke A, Groussin M.<br>[**Disease signatures in the gut metagenome of a prospective family cohort of inflammatory bowel disease**](http://dx.doi.org/10.1101/2023.12.10.23299783)<br>(preprint) *medRxiv*. 2023. doi: 10.1101/2023.12.10.23299783
+
 Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulrich U, Fohrer N, Bang C, <u>Waschina S</u>, Hölzel CS.<br>[**Selection of aquatic microbiota exposed to the herbicides flufenacet and metazachlor**](http://dx.doi.org/10.1111/1462-2920.16535)<br>*Environmental Microbiology*. 2023. . doi: 10.1111/1462-2920.16535
 
 Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of bacterial predators drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1101/2023.11.20.567171)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.11.20.567171
@@ -26,7 +28,7 @@ Jensen-Kroll J, Demetrowitsch T, Clawin-Rädecker I, Klempt M, <u>Waschina S</u>
 
 <u>Waschina S</u>, Seeger K.<br>[**Using in-tube extraction and slice selective NMR experiments allow imaging via statistical analysis of metabolic profiles**](http://dx.doi.org/10.1016/j.aca.2022.340419)<br>*Analytica Chimica Acta*. 2022. 1231. doi: 10.1016/j.aca.2022.340419
 
-Troci A, Rausch P, <u>Waschina S</u>, Lieb W, Franke A, Bang C.<br>[**Long‐Term Dietary Effects on Human Gut Microbiota Composition Employing Shotgun Metagenomics Data Analysis**](http://dx.doi.org/10.1002/mnfr.202101098)<br>*Molecular Nutrition &amp; Food Research*. 2022. . doi: 10.1002/mnfr.202101098
+Troci A, Rausch P, <u>Waschina S</u>, Lieb W, Franke A, Bang C.<br>[**Long‐Term Dietary Effects on Human Gut Microbiota Composition Employing Shotgun Metagenomics Data Analysis**](http://dx.doi.org/10.1002/mnfr.202101098)<br>*Molecular Nutrition &amp; Food Research*. 2022. 67(24). doi: 10.1002/mnfr.202101098
 
 Schwenker JA, Friedrichsen M, <u>Waschina S</u>, Bang C, Franke A, Mayer R, Hölzel CS.<br>[**Bovine milk microbiota: Evaluation of different DNA extraction protocols for challenging samples**](http://dx.doi.org/10.1002/mbo3.1275)<br>*MicrobiologyOpen*. 2022. 11(2). doi: 10.1002/mbo3.1275
 
