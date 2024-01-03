@@ -6,7 +6,7 @@ title: Publications
 
 Rühlemann M, <u>Waschina S</u>, Wacker EM, Rausch P, Schaan A, Zafroon Z, Franzpötter K, Jacobs G, Ellinghaus D, Kruse R, Bergemalm D, Halfvarson J, Ziemann M, Görg S, Lieb W, Schreiber S, Poyet M, Bang C, Franke A, Groussin M.<br>[**Disease signatures in the gut metagenome of a prospective family cohort of inflammatory bowel disease**](http://dx.doi.org/10.1101/2023.12.10.23299783)<br>(preprint) *medRxiv*. 2023. doi: 10.1101/2023.12.10.23299783
 
-Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulrich U, Fohrer N, Bang C, <u>Waschina S</u>, Hölzel CS.<br>[**Selection of aquatic microbiota exposed to the herbicides flufenacet and metazachlor**](http://dx.doi.org/10.1111/1462-2920.16535)<br>*Environmental Microbiology*. 2023. . doi: 10.1111/1462-2920.16535
+Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulrich U, Fohrer N, Bang C, <u>Waschina S</u>, Hölzel CS.<br>[**Selection of aquatic microbiota exposed to the herbicides flufenacet and metazachlor**](http://dx.doi.org/10.1111/1462-2920.16535)<br>*Environmental Microbiology*. 2023. 25(12). doi: 10.1111/1462-2920.16535
 
 Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of bacterial predators drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1101/2023.11.20.567171)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.11.20.567171
 
