@@ -2,6 +2,10 @@
 layout: infopage
 title: Publications
 ---
+### 2024
+
+Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1038/s41467-023-44636-7)<br>*Nature Communications*. 2024. 15(1). doi: 10.1038/s41467-023-44636-7
+
 ### 2023
 
 Rühlemann M, <u>Waschina S</u>, Wacker EM, Rausch P, Schaan A, Zafroon Z, Franzpötter K, Jacobs G, Ellinghaus D, Kruse R, Bergemalm D, Halfvarson J, Ziemann M, Görg S, Lieb W, Schreiber S, Poyet M, Bang C, Franke A, Groussin M.<br>[**Disease signatures in the gut metagenome of a prospective family cohort of inflammatory bowel disease**](http://dx.doi.org/10.1101/2023.12.10.23299783)<br>(preprint) *medRxiv*. 2023. doi: 10.1101/2023.12.10.23299783
@@ -17,8 +21,6 @@ Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pa
 Blesl A, Wurm P, <u>Waschina S</u>, Gröchenig HP, Novacek G, Primas C, Reinisch W, Kutschera M, Illiasch C, Hennlich B, Steiner P, Koch R, Tillinger W, Haas T, Reicht G, Mayer A, Ludwiczek O, Miehsler W, Steidl K, Binder L, Reider S, Watschinger C, Fürst S, Kump P, Moschen A, Aden K, Gorkiewicz G, Högenauer C.<br>[**Prediction of Response to Systemic Corticosteroids in Active UC by Microbial Composition—A Prospective Multicenter Study**](http://dx.doi.org/10.1093/ibd/izad126)<br>*Inflammatory Bowel Diseases*. 2023. 30(1). doi: 10.1093/ibd/izad126
 
 Effenberger M, <u>Waschina S</u>, Bronowski C, Sturm G, <u>Tassiello O</u>, Sommer F, Zollner A, Watschinger C, Grabherr F, Gstir R, Grander C, Enrich B, Bale R, Putzer D, Djanani A, Moschen AR, Zoller H, Rupp J, Schreiber S, Burcelin R, Lass-Flörl C, Trajanoski Z, Oberhuber G, Rosenstiel P, Adolph TE, Aden K, Tilg H.<br>[**A gut bacterial signature in blood and liver tissue characterizes cirrhosis and hepatocellular carcinoma**](http://dx.doi.org/10.1097/HC9.0000000000000182)<br>*Hepatology Communications*. 2023. 7(7). doi: 10.1097/hc9.0000000000000182
-
-Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1101/2023.03.01.530589)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.03.01.530589
 
 Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1101/2023.02.17.528811)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.02.17.528811
 
