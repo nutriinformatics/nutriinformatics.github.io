@@ -4,7 +4,9 @@ title: Publications
 ---
 ### 2024
 
-Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. . doi: 10.1128/spectrum.01144-23
+<u>Harris DMM</u>, Szymczak S, Schuchardt S, Labrenz J, Tran F, Welz L, Graßhoff H, Zirpel H, Sümbül M, Oumari M, Engelbogen N, Junker R, Conrad C, Thaçi D, Frey N, Franke A, Weidinger S, Hoyer B, Rosenstiel P, <u>Waschina S</u>, Schreiber S, Aden K.<br>[**Tryptophan degradation as a systems phenomenon in inflammation – an analysis across 13 chronic inflammatory diseases**](http://dx.doi.org/10.1016/j.ebiom.2024.105056)<br>*eBioMedicine*. 2024. 102. doi: 10.1016/j.ebiom.2024.105056
+
+Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. 12(2). doi: 10.1128/spectrum.01144-23
 
 Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1038/s41467-023-44636-7)<br>*Nature Communications*. 2024. 15(1). doi: 10.1038/s41467-023-44636-7
 
@@ -17,8 +19,6 @@ Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulric
 Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of bacterial predators drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1101/2023.11.20.567171)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.11.20.567171
 
 <u>Starke S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br>[**Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability**](http://dx.doi.org/10.1038/s41396-023-01537-3)<br>*The ISME Journal*. 2023. 17(12). doi: 10.1038/s41396-023-01537-3
-
-<u>Harris DMM</u>, Szymczak S, Schuchardt S, Labrenz J, Tran F, Welz L, Graßhoff H, Zirpel H, Sümbül M, Oumari M, Engelbogen N, Junker R, Conrad C, Thaçi D, Frey N, Franke A, Weidinger S, Rosenstiel P, Hoyer B, <u>Waschina S</u>, Schreiber S, Aden K.<br>[**Tryptophan wasting and disease activity as a systems phenomenon in inflammation – an analysis across 13 chronic inflammatory diseases**](http://dx.doi.org/10.1101/2023.08.25.554383)<br>(preprint) *bioRxiv*. 2023. doi: 10.1101/2023.08.25.554383
 
 Blesl A, Wurm P, <u>Waschina S</u>, Gröchenig HP, Novacek G, Primas C, Reinisch W, Kutschera M, Illiasch C, Hennlich B, Steiner P, Koch R, Tillinger W, Haas T, Reicht G, Mayer A, Ludwiczek O, Miehsler W, Steidl K, Binder L, Reider S, Watschinger C, Fürst S, Kump P, Moschen A, Aden K, Gorkiewicz G, Högenauer C.<br>[**Prediction of Response to Systemic Corticosteroids in Active UC by Microbial Composition—A Prospective Multicenter Study**](http://dx.doi.org/10.1093/ibd/izad126)<br>*Inflammatory Bowel Diseases*. 2023. 30(1). doi: 10.1093/ibd/izad126
 
