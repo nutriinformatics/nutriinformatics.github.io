@@ -4,11 +4,15 @@ title: Publications
 ---
 ### 2024
 
+De Bernardini N, Zampieri G, Campanaro S, Zimmermann J, <u>Waschina S</u>, Treu L.<br>[**pan-Draft: automated reconstruction of species-representative metabolic models from multiple genomes**](http://dx.doi.org/10.1186/s13059-024-03425-1)<br>*Genome Biology*. 2024. 25(1). doi: 10.1186/s13059-024-03425-1
+
+Welz L, <u>Harris DMM</u>, Kim NM, Alsaadi AI, Wu Q, Oumari M, Taubenheim J, Volk V, Credido G, Koncina E, Mukherjee PK, Tran F, Sievers LK, Pavlidis P, Powell N, Rieder F, Letellier E, <u>Waschina S</u>, Kaleta C, Feuerhake F, Verstockt B, McReynolds MR, Rosenstiel P, Schreiber S, Aden K.<br>[**A metabolic constraint in the kynurenine pathway drives mucosal inflammation in IBD**](http://dx.doi.org/10.1101/2024.08.08.24311598)<br>(preprint) *medRxiv*. 2024. doi: 10.1101/2024.08.08.24311598
+
 <u>Harris DMM</u>, Szymczak S, Schuchardt S, Labrenz J, Tran F, Welz L, Graßhoff H, Zirpel H, Sümbül M, Oumari M, Engelbogen N, Junker R, Conrad C, Thaçi D, Frey N, Franke A, Weidinger S, Hoyer B, Rosenstiel P, <u>Waschina S</u>, Schreiber S, Aden K.<br>[**Tryptophan degradation as a systems phenomenon in inflammation – an analysis across 13 chronic inflammatory diseases**](http://dx.doi.org/10.1016/j.ebiom.2024.105056)<br>*eBioMedicine*. 2024. 102. doi: 10.1016/j.ebiom.2024.105056
 
 Best L, Dost T, Esser D, Flor S, Haase M, Kadibalban AS, Marinos G, Walker A, Zimmermann J, Simon R, Schmidt S, Taubenheim J, Kunzel S, Hasler R, Groth M, <u>Waschina S</u>, Witte OW, Schmitt-Kopplin P, Baines JF, Frahm C, Kaleta C.<br>[**Metabolic modeling reveals the aging-associated decline of host-microbiome metabolic interactions in mice**](http://dx.doi.org/10.1101/2024.03.28.587009)<br>(preprint) *bioRxiv*. 2024. doi: 10.1101/2024.03.28.587009
 
-Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. 12(2). doi: 10.1128/spectrum.01144-23
+Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. . doi: 10.1128/spectrum.01144-23
 
 Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1038/s41467-023-44636-7)<br>*Nature Communications*. 2024. 15(1). doi: 10.1038/s41467-023-44636-7
 
@@ -68,7 +72,7 @@ Aden K, Rehman A, <u>Waschina S</u>, Pan WH, Walker A, Lucio M, Nunez AM, Bharti
 
 Giri S, <u>Waschina S</u>, Kaleta C, Kost C.<br>[**Defining Division of Labor in Microbial Communities**](http://dx.doi.org/10.1016/j.jmb.2019.06.023)<br>*Journal of Molecular Biology*. 2019. 431(23). doi: 10.1016/j.jmb.2019.06.023
 
-Zimmermann J, Obeng N, Yang W, Pees B, Petersen C, <u>Waschina S</u>, Kissoyan KA, Aidley J, Hoeppner MP, Bunk B, Spröer C, Leippe M, Dierking K, Kaleta C, Schulenburg H.<br>[**The functional repertoire contained within the native microbiota of the model nematode <i>Caenorhabditis elegans</i>**](http://dx.doi.org/10.1038/s41396-019-0504-y)<br>*The ISME Journal*. 2019. 14(1). doi: 10.1038/s41396-019-0504-y
+Zimmermann J, Obeng N, Yang W, Pees B, Petersen C, <u>Waschina S</u>, Kissoyan KA, Aidley J, Hoeppner MP, Bunk B, Spröer C, Leippe M, Dierking K, Kaleta C, Schulenburg H.<br>[**The functional repertoire contained within the native microbiota of the model nematode<i>Caenorhabditis elegans</i>**](http://dx.doi.org/10.1038/s41396-019-0504-y)<br>*The ISME Journal*. 2019. 14(1). doi: 10.1038/s41396-019-0504-y
 
 Pryor R, Norvaisas P, Marinos G, Best L, Thingholm LB, Quintaneiro LM, De Haes W, Esser D, <u>Waschina S</u>, Lujan C, Smith RL, Scott TA, Martinez-Martinez D, Woodward O, Bryson K, Laudes M, Lieb W, Houtkooper RH, Franke A, Temmerman L, Bjedov I, Cochemé HM, Kaleta C, Cabreiro F.<br>[**Host-Microbe-Drug-Nutrient Screen Identifies Bacterial Effectors of Metformin Therapy**](http://dx.doi.org/10.1016/j.cell.2019.08.003)<br>*Cell*. 2019. 178(6). doi: 10.1016/j.cell.2019.08.003
 
