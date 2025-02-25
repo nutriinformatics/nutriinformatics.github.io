@@ -2,9 +2,19 @@
 layout: infopage
 title: Publications
 ---
+### 2025
+
+Faust KB, Lupatsii M, Römer F, Graspeuntner S, <u>Waschina S</u>, <u>Zimmermann S</u>, Humberg A, Fortmann MI, Hanke K, Böckenholt K, Dirks J, Silwedel C, Rupp J, Herting E, Göpel W, Härtel C.<br>[**Use of Macrogol to accelerate feeding advancement in extremely preterm infants**](http://dx.doi.org/10.1159/000543050)<br>*Neonatology*. 2025. . doi: 10.1159/000543050
+
+Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of predatory bacteria drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1016/j.cub.2025.01.068)<br>*Current Biology*. 2025. . doi: 10.1016/j.cub.2025.01.068
+
+<u>Starke S</u>, <u>Harris DMM</u>, Paulay A, Aden K, <u>Waschina S</u>.<br>[**Comparative Analysis of Amino Acid Auxotrophies and Peptidase Profiles in Non-Dysbiotic and Dysbiotic Small Intestinal Microbiomes**](http://dx.doi.org/10.1016/j.csbj.2025.02.004)<br>*Computational and Structural Biotechnology Journal*. 2025. . doi: 10.1016/j.csbj.2025.02.004
+
 ### 2024
 
-De Bernardini N, Zampieri G, Campanaro S, Zimmermann J, <u>Waschina S</u>, Treu L.<br>[**pan-Draft: automated reconstruction of species-representative metabolic models from multiple genomes**](http://dx.doi.org/10.1186/s13059-024-03425-1)<br>*Genome Biology*. 2024. 25(1). doi: 10.1186/s13059-024-03425-1
+Zhang S, Song W, Marinos G, <u>Waschina S</u>, Zimmermann J, Kaleta C, Thomas T.<br>[**Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont**](http://dx.doi.org/10.1038/s41467-024-55222-w)<br>*Nature Communications*. 2024. 15(1). doi: 10.1038/s41467-024-55222-w
+
+<u>De Bernardini N</u>, Zampieri G, Campanaro S, Zimmermann J, <u>Waschina S</u>, Treu L.<br>[**pan-Draft: automated reconstruction of species-representative metabolic models from multiple genomes**](http://dx.doi.org/10.1186/s13059-024-03425-1)<br>*Genome Biology*. 2024. 25(1). doi: 10.1186/s13059-024-03425-1
 
 Welz L, <u>Harris DMM</u>, Kim NM, Alsaadi AI, Wu Q, Oumari M, Taubenheim J, Volk V, Credido G, Koncina E, Mukherjee PK, Tran F, Sievers LK, Pavlidis P, Powell N, Rieder F, Letellier E, <u>Waschina S</u>, Kaleta C, Feuerhake F, Verstockt B, McReynolds MR, Rosenstiel P, Schreiber S, Aden K.<br>[**A metabolic constraint in the kynurenine pathway drives mucosal inflammation in IBD**](http://dx.doi.org/10.1101/2024.08.08.24311598)<br>(preprint) *medRxiv*. 2024. doi: 10.1101/2024.08.08.24311598
 
@@ -12,7 +22,7 @@ Welz L, <u>Harris DMM</u>, Kim NM, Alsaadi AI, Wu Q, Oumari M, Taubenheim J, Vol
 
 Best L, Dost T, Esser D, Flor S, Haase M, Kadibalban AS, Marinos G, Walker A, Zimmermann J, Simon R, Schmidt S, Taubenheim J, Kunzel S, Hasler R, Groth M, <u>Waschina S</u>, Witte OW, Schmitt-Kopplin P, Baines JF, Frahm C, Kaleta C.<br>[**Metabolic modeling reveals the aging-associated decline of host-microbiome metabolic interactions in mice**](http://dx.doi.org/10.1101/2024.03.28.587009)<br>(preprint) *bioRxiv*. 2024. doi: 10.1101/2024.03.28.587009
 
-Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. . doi: 10.1128/spectrum.01144-23
+Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br>[**Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics**](http://dx.doi.org/10.1128/spectrum.01144-23)<br>*Microbiology Spectrum*. 2024. 12(2). doi: 10.1128/spectrum.01144-23
 
 Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br>[**Functional host-specific adaptation of the intestinal microbiome in hominids**](http://dx.doi.org/10.1038/s41467-023-44636-7)<br>*Nature Communications*. 2024. 15(1). doi: 10.1038/s41467-023-44636-7
 

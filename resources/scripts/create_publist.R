@@ -6,7 +6,9 @@ group_members <- c("Busche S", "Starke S",
                    "Harris D", "Harris DM", "Harris DMM",
                    "Tassiello O",
                    "Pisarevskaja A",
-                   "Waschina S")
+                   "Waschina S",
+                   "Löhden W", "Loehden W", "Löhden WA", "Loehden WA",
+                   "De Bernardini N")
 
 # retrieve pub info from crossref
 dois <- readLines("resources/data/publication_dois.txt")
