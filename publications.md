@@ -4,11 +4,13 @@ title: Publications
 ---
 ### 2025
 
+Best L, Dost T, Esser D, Flor S, Gamarra AM, Haase M, Kadibalban AS, Marinos G, Walker A, Zimmermann J, Simon R, Schmidt S, Taubenheim J, Künzel S, Häsler R, Franzenburg S, Groth M, <u>Waschina S</u>, Rosenstiel P, Sommer F, Witte OW, Schmitt-Kopplin P, Baines JF, Frahm C, Kaleta C.<br>[**Metabolic modelling reveals the aging-associated decline of host–microbiome metabolic interactions in mice**](http://dx.doi.org/10.1038/s41564-025-01959-z)<br>*Nature Microbiology*. 2025. . doi: 10.1038/s41564-025-01959-z
+
 Schlicht K, Pape L, Rohmann N, Knappe C, Epe J, Geisler C, Pohlschneider D, Brodesser S, Kruse L, Rohlfing ME, Hartmann K, Türk K, Marquardt J, Beckmann J, von Schönfels W, Beckmann A, Wietzke-Braun P, Schulte DM, Hollstein T, Demetrowitsch T, Jensen-Kroll J, Brix F, Schreiber S, Franke A, Schwarz K, <u>Waschina S</u>, Laudes M.<br>[**Prediabetes and type 2 diabetes but not obesity are associated with alterations in bile acid related gut microbe-microbe and gut microbe-host community metabolism**](http://dx.doi.org/10.1080/19490976.2025.2474143)<br>*Gut Microbes*. 2025. 17(1). doi: 10.1080/19490976.2025.2474143
 
-Faust KB, Lupatsii M, Römer F, Graspeuntner S, <u>Waschina S</u>, <u>Zimmermann S</u>, Humberg A, Fortmann MI, Hanke K, Böckenholt K, Dirks J, Silwedel C, Rupp J, Herting E, Göpel W, Härtel C.<br>[**Use of Macrogol to accelerate feeding advancement in extremely preterm infants**](http://dx.doi.org/10.1159/000543050)<br>*Neonatology*. 2025. . doi: 10.1159/000543050
+Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of predatory bacteria drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1016/j.cub.2025.01.068)<br>*Current Biology*. 2025. 35(6). doi: 10.1016/j.cub.2025.01.068
 
-Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br>[**Mass lysis of predatory bacteria drives the enrichment of antibiotic resistance in soil microbial communities**](http://dx.doi.org/10.1016/j.cub.2025.01.068)<br>*Current Biology*. 2025. . doi: 10.1016/j.cub.2025.01.068
+Faust KB, Lupatsii M, Römer F, Graspeuntner S, <u>Waschina S</u>, <u>Zimmermann S</u>, Humberg A, Fortmann MI, Hanke K, Böckenholt K, Dirks J, Silwedel C, Rupp J, Herting E, Göpel W, Härtel C.<br>[**Use of Macrogol to accelerate feeding advancement in extremely preterm infants**](http://dx.doi.org/10.1159/000543050)<br>*Neonatology*. 2025. . doi: 10.1159/000543050
 
 <u>Starke S</u>, <u>Harris DMM</u>, Paulay A, Aden K, <u>Waschina S</u>.<br>[**Comparative analysis of amino acid auxotrophies and peptidase profiles in non-dysbiotic and dysbiotic small intestinal microbiomes**](http://dx.doi.org/10.1016/j.csbj.2025.02.004)<br>*Computational and Structural Biotechnology Journal*. 2025. 27. doi: 10.1016/j.csbj.2025.02.004
 
