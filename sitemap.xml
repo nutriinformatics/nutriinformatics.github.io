@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/archives.html</loc>
+</url>
+<url>
+<loc>/categories.html</loc>
+</url>
+<url>
+<loc>/contact.html</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/publications.html</loc>
+</url>
+<url>
+<loc>/research.html</loc>
+</url>
+<url>
+<loc>/software.html</loc>
+</url>
+<url>
+<loc>/tags.html</loc>
+</url>
+<url>
+<loc>/team.html</loc>
+</url>
+</urlset>

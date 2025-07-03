@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Publications | Nutriinformatics</title>
+<meta name="generator" content="Jekyll v4.4.1">
+<meta property="og:title" content="Publications">
+<meta name="author" content="Nutriinformatics group">
+<meta property="og:locale" content="en">
+<meta name="description" content="The Nutriinformatics Research Group uses computational approaches to understand how the gut microbiome contributes to the impact of diet and medication on human health. Keywords: Metabolic modelling, microbial ecology, genome-scale metabolic networks, computational metabolomics">
+<meta property="og:description" content="The Nutriinformatics Research Group uses computational approaches to understand how the gut microbiome contributes to the impact of diet and medication on human health. Keywords: Metabolic modelling, microbial ecology, genome-scale metabolic networks, computational metabolomics">
+<link rel="canonical" href="/publications.html">
+<meta property="og:url" content="/publications.html">
+<meta property="og:site_name" content="Nutriinformatics">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Publications">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Nutriinformatics group"},"description":"The Nutriinformatics Research Group uses computational approaches to understand how the gut microbiome contributes to the impact of diet and medication on human health. Keywords: Metabolic modelling, microbial ecology, genome-scale metabolic networks, computational metabolomics","headline":"Publications","url":"/publications.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="icon" href="/assets/images/misc/NI_logo_32x32.png">
+  <!--
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-noto-sans@0.0.72/index.min.css">
+  -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <script src="/assets/js/main.js"></script><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Nutriinformatics">
+<!--
+<link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
+-->
+<!-- and it's easy to individually load additional languages -->
+<!--
+<script charset="UTF-8"
+        src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/languages/go.min.js"></script>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+// Init highlight js
+document.addEventListener('DOMContentLoaded', function(event) {
+  var els = document.querySelectorAll('pre code')
+
+  function addLangData(block) {
+    var outer = block.parentElement.parentElement.parentElement;
+    var lang = block.getAttribute('data-lang');
+    for (var i = 0; i < outer.classList.length; i++) {
+      var cls = outer.classList[i];
+      if (cls.startsWith('language-')) {
+        lang = cls;
+        break;
+      }
+    }
+    if (!lang) {
+      cls = block.getAttribute('class');
+      lang = cls ? cls.replace('hljs ', '') : '';
+    }
+    if (lang.startsWith('language-')) {
+      lang = lang.substr(9);
+    }
+    block.setAttribute('class', 'hljs ' + lang);
+    block.parentNode.setAttribute('data-lang', lang);
+  }
+
+  function addBadge(block) {
+    var enabled = ('true' || 'true').toLowerCase();
+    if (enabled == 'true') {
+      var pre = block.parentElement;
+      pre.classList.add('badge');
+    }
+  }
+
+  function handle(block) {
+    addLangData(block);
+    addBadge(block)
+    hljs.highlightBlock(block);
+  }
+
+  for (var i = 0; i < els.length; i++) {
+    var el = els[i];
+    handle(el);
+  }
+});
+</script>
+
+<style>
+  /* code language badge */
+  pre.badge::before {
+    content: attr(data-lang);
+    color: #fff;
+    background-color: #ff4e00;
+    padding: 0 .5em;
+    border-radius: 0 2px;
+    text-transform: uppercase;
+    text-align: center;
+    min-width: 32px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  }
+
+  /* fix wrong badge display for firefox browser */
+  code > table pre::before {
+    display: none;
+  }
+</style>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="site-header " role="banner">
+
+  <div class="wrapper">
+    <div class="site-header-inner">
+<span class="site-brand"><a class="site-brand-inner" rel="author" href="/">
+  <img class="site-favicon" title="Nutriinformatics" src="/assets/images/misc/NI_logo_32x32.png" onerror="this.style.display='none'">
+  Nutriinformatics
+</a>
+</span><nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger">
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewbox="0 0 18 15" width="18px" height="15px">
+                <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+              </svg>
+            </span>
+          </label>
+
+          <div class="trigger">
+<a class="page-link" href="/">HOME</a><a class="page-link" href="/research.html">RESEARCH</a><a class="page-link" href="/team.html">TEAM</a><a class="page-link" href="/software.html">SOFTWARE</a><a class="page-link" href="/publications.html">PUBLICATIONS</a><a class="page-link" href="/contact.html">CONTACT</a>
+
+
+
+
+</div>
+        </nav>
+</div>
+  </div>
+</header>
+
+<script>
+  function initHeader() {
+    var lastScrollY = getScrollPos().y;
+    var documentElement = document.documentElement;
+
+    function storeScrollData() {
+      var y = getScrollPos().y;documentElement.setAttribute("data-header-transparent", "");var scrollStatus = "";
+
+      if (y <= 0) {
+        scrollStatus = "top";
+      } else if ((window.innerHeight + y) >= document.body.offsetHeight) {
+        scrollStatus = "bottom";
+      } else {
+        var isScrollDown = (y - lastScrollY > 0) ? true : false;
+        scrollStatus = isScrollDown ? "down" : "up";
+      }
+
+      lastScrollY = y;
+      documentElement.setAttribute("data-scroll-status", scrollStatus);
+    }
+
+    window.addEventListener('scroll', function(e) {
+      storeScrollData();
+    });
+
+    storeScrollData();
+  }
+  document.addEventListener('DOMContentLoaded', initHeader);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function hashLocate(hashValue) {
+    hashValue = hashValue.replace(/^.*#h-/, '');
+    hashValue = decodeURIComponent(hashValue);
+    var element = document.getElementById(hashValue);
+
+    if (!element) {
+      return;
+    }
+
+    var header = document.querySelector('header.site-header');
+    var headerRect = header.getBoundingClientRect();
+    var headerTop = Math.floor(headerRect.top);
+    var headerHeight = Math.floor(headerRect.height);
+    var scrollPos = getScrollPos();
+    var offsetY = element.offsetTop - (headerTop + headerHeight + 20);
+
+    if (offsetY == scrollPos.y) {
+      return;
+    }
+
+    if (headerTop == 0  && offsetY > scrollPos.y) {
+      offsetY += headerHeight + 2;
+    } else if (headerTop < 0  && offsetY < scrollPos.y) {
+      offsetY -= headerHeight - 2;
+    }
+
+    smoothScrollTo(offsetY);
+  }
+
+  // The first event occurred
+  window.addEventListener('load', function(event) {
+    if (window.location.hash) {
+      hashLocate(window.location.hash);
+    }
+  });
+
+  // The first event occurred
+  window.addEventListener('click', function(event) {
+    if (event.target.tagName.toLowerCase() == 'a') {
+      hashLocate(event.target.getAttribute('href'));
+    }
+  });
+</script>
+<div class="theme-toggle">
+  <input type="checkbox" id="theme-switch">
+  <label for="theme-switch">
+    <div class="toggle"></div>
+    <div class="names">
+      <p class="light">Light</p>
+      <p class="dark">Dark</p>
+    </div>
+  </label>
+</div>
+
+
+
+
+<script>
+  (function() {
+    var sw = document.getElementById('theme-switch');
+    var html = document.getElementsByTagName('html')[0];
+    var nightModeOption = ('auto' || 'auto').toLowerCase();
+    var storage = nightModeOption === 'manual'
+        ? localStorage
+        : sessionStorage;
+    var themeData = loadThemeData();
+
+    function saveThemeData(data) {
+      storage.setItem('theme', JSON.stringify(data));
+    }
+
+    function loadThemeData() {
+      var data = storage.getItem('theme');
+      try {
+        data = JSON.parse(data ? data : '');
+      } catch(e) {
+        data = { nightShift: undefined, autoToggleAt: 0 };
+        saveThemeData(data);
+      }
+      return data;
+    }
+
+    function handleThemeToggle(nightShift) {
+      themeData.nightShift = nightShift;
+      saveThemeData(themeData);
+      html.dataset.theme = nightShift ? 'dark' : 'light';
+      setTimeout(function() {
+        sw.checked = nightShift ? true : false;
+      }, 50);
+    }
+
+    function autoThemeToggle() {
+      // Next time point of theme toggle
+      var now = new Date();
+      var toggleAt = new Date();
+      var hours = now.getHours();
+      var nightShift = hours >= 19 || hours <=7;
+
+      if (nightShift) {
+        if (hours > 7) {
+          toggleAt.setDate(toggleAt.getDate() + 1);
+        }
+        toggleAt.setHours(7);
+      } else {
+        toggleAt.setHours(19);
+      }
+
+      toggleAt.setMinutes(0);
+      toggleAt.setSeconds(0);
+      toggleAt.setMilliseconds(0)
+
+      var delay = toggleAt.getTime() - now.getTime();
+
+      // auto toggle theme mode
+      setTimeout(function() {
+        handleThemeToggle(!nightShift);
+      }, delay);
+
+      return {
+        nightShift: nightShift,
+        toggleAt: toggleAt.getTime()
+      };
+    }
+
+    // Listen the theme toggle event
+    sw.addEventListener('change', function(event) {
+      handleThemeToggle(event.target.checked);
+    });
+
+    if (nightModeOption == 'auto') {
+      var data = autoThemeToggle();
+
+      // Toggle theme by local setting
+      if (data.toggleAt > themeData.autoToggleAt) {
+        themeData.autoToggleAt = data.toggleAt;
+        handleThemeToggle(data.nightShift);
+      } else {
+        handleThemeToggle(themeData.nightShift);
+      }
+    } else if (nightModeOption == 'manual') {
+      handleThemeToggle(themeData.nightShift);
+    } else {
+      var nightShift = themeData.nightShift;
+      if (nightShift === undefined) {
+        nightShift = nightModeOption === 'on';
+      }
+      handleThemeToggle(nightShift);
+    }
+  })();
+</script>
+<div id="click-to-top" class="click-to-top">
+  <i class="fa fa-arrow-up"></i>
+</div>
+<script>
+  (function () {
+    const clickToTop = document.getElementById('click-to-top');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 100) {
+        clickToTop.classList.add('show')
+      }else {
+        clickToTop.classList.remove('show')
+      }
+    });
+    clickToTop.addEventListener('click', () => {
+      window.smoothScrollTo(0);
+    });
+  })();
+</script>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="framework">
+  <section class="main">
+
+     <div class="post">
+  <section>
+
+
+
+
+
+
+
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <div class="post-content e-content" itemprop="articleBody">
+
+      <h3 id="2025">2025</h3>
+
+<p>Jensen-Kroll J, Demetrowitsch T, Sprotte S, Brix F, Beckmann A, Schlicht K, Brinks E, Laudes M, <u>Waschina S</u>, Franz CMAP, Schwarz K.<br><a href="http://dx.doi.org/10.1016/j.jff.2025.106930"><strong>Degradation of rutin and genistein and the effect on human bacterial fecal populations of obese and non-obese</strong></a><br><em>Journal of Functional Foods</em>. 2025. 130. doi: 10.1016/j.jff.2025.106930</p>
+
+<p>Schlicht K, Pape L, Rohmann N, Knappe C, Epe J, Geisler C, Pohlschneider D, Brodesser S, Kruse L, Rohlfing ME, Hartmann K, Türk K, Marquardt J, Beckmann J, von Schönfels W, Beckmann A, Wietzke-Braun P, Schulte DM, Hollstein T, Demetrowitsch T, Jensen-Kroll J, Brix F, Schreiber S, Franke A, Schwarz K, <u>Waschina S</u>, Laudes M.<br><a href="http://dx.doi.org/10.1055/s-0045-1807474"><strong>Levels of circulating bile acids and type 2 diabetes are associated in silico with changes in polyamine synthesis and amino acid metabolism of the gut bacterial community</strong></a><br><em>Diabetologie und Stoffwechsel</em>. 2025. 20(S 01). doi: 10.1055/s-0045-1807474</p>
+
+<p>Best L, Dost T, Esser D, Flor S, Gamarra AM, Haase M, Kadibalban AS, Marinos G, Walker A, Zimmermann J, Simon R, Schmidt S, Taubenheim J, Künzel S, Häsler R, Franzenburg S, Groth M, <u>Waschina S</u>, Rosenstiel P, Sommer F, Witte OW, Schmitt-Kopplin P, Baines JF, Frahm C, Kaleta C.<br><a href="http://dx.doi.org/10.1038/s41564-025-01959-z"><strong>Metabolic modelling reveals the aging-associated decline of host–microbiome metabolic interactions in mice</strong></a><br><em>Nature Microbiology</em>. 2025. 10(4). doi: 10.1038/s41564-025-01959-z</p>
+
+<p>Schlicht K, Pape L, Rohmann N, Knappe C, Epe J, Geisler C, Pohlschneider D, Brodesser S, Kruse L, Rohlfing ME, Hartmann K, Türk K, Marquardt J, Beckmann J, von Schönfels W, Beckmann A, Wietzke-Braun P, Schulte DM, Hollstein T, Demetrowitsch T, Jensen-Kroll J, Brix F, Schreiber S, Franke A, Schwarz K, <u>Waschina S</u>, Laudes M.<br><a href="http://dx.doi.org/10.1080/19490976.2025.2474143"><strong>Prediabetes and type 2 diabetes but not obesity are associated with alterations in bile acid related gut microbe-microbe and gut microbe-host community metabolism</strong></a><br><em>Gut Microbes</em>. 2025. 17(1). doi: 10.1080/19490976.2025.2474143</p>
+
+<p>Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br><a href="http://dx.doi.org/10.1016/j.cub.2025.01.068"><strong>Mass lysis of predatory bacteria drives the enrichment of antibiotic resistance in soil microbial communities</strong></a><br><em>Current Biology</em>. 2025. 35(6). doi: 10.1016/j.cub.2025.01.068</p>
+
+<p>Faust KB, Lupatsii M, Römer F, Graspeuntner S, <u>Waschina S</u>, <u>Zimmermann S</u>, Humberg A, Fortmann MI, Hanke K, Böckenholt K, Dirks J, Silwedel C, Rupp J, Herting E, Göpel W, Härtel C.<br><a href="http://dx.doi.org/10.1159/000543050"><strong>Use of Macrogol to Accelerate Feeding Advancement in Extremely Preterm Infants</strong></a><br><em>Neonatology</em>. 2025. 122(3). doi: 10.1159/000543050</p>
+
+<p><u>Starke S</u>, <u>Harris DMM</u>, Paulay A, Aden K, <u>Waschina S</u>.<br><a href="http://dx.doi.org/10.1016/j.csbj.2025.02.004"><strong>Comparative analysis of amino acid auxotrophies and peptidase profiles in non-dysbiotic and dysbiotic small intestinal microbiomes</strong></a><br><em>Computational and Structural Biotechnology Journal</em>. 2025. 27. doi: 10.1016/j.csbj.2025.02.004</p>
+
+<h3 id="2024">2024</h3>
+
+<p>Zhang S, Song W, Marinos G, <u>Waschina S</u>, Zimmermann J, Kaleta C, Thomas T.<br><a href="http://dx.doi.org/10.1038/s41467-024-55222-w"><strong>Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont</strong></a><br><em>Nature Communications</em>. 2024. 15(1). doi: 10.1038/s41467-024-55222-w</p>
+
+<p><u>De Bernardini N</u>, Zampieri G, Campanaro S, Zimmermann J, <u>Waschina S</u>, Treu L.<br><a href="http://dx.doi.org/10.1186/s13059-024-03425-1"><strong>pan-Draft: automated reconstruction of species-representative metabolic models from multiple genomes</strong></a><br><em>Genome Biology</em>. 2024. 25(1). doi: 10.1186/s13059-024-03425-1</p>
+
+<p>Welz L, <u>Harris DMM</u>, Kim NM, Alsaadi AI, Wu Q, Oumari M, Taubenheim J, Volk V, Credido G, Koncina E, Mukherjee PK, Tran F, Sievers LK, Pavlidis P, Powell N, Rieder F, Letellier E, <u>Waschina S</u>, Kaleta C, Feuerhake F, Verstockt B, McReynolds MR, Rosenstiel P, Schreiber S, Aden K.<br><a href="http://dx.doi.org/10.1101/2024.08.08.24311598"><strong>A metabolic constraint in the kynurenine pathway drives mucosal inflammation in IBD</strong></a><br>(preprint) <em>medRxiv</em>. 2024. doi: 10.1101/2024.08.08.24311598</p>
+
+<p><u>Harris DMM</u>, Szymczak S, Schuchardt S, Labrenz J, Tran F, Welz L, Graßhoff H, Zirpel H, Sümbül M, Oumari M, Engelbogen N, Junker R, Conrad C, Thaçi D, Frey N, Franke A, Weidinger S, Hoyer B, Rosenstiel P, <u>Waschina S</u>, Schreiber S, Aden K.<br><a href="http://dx.doi.org/10.1016/j.ebiom.2024.105056"><strong>Tryptophan degradation as a systems phenomenon in inflammation – an analysis across 13 chronic inflammatory diseases</strong></a><br><em>eBioMedicine</em>. 2024. 102. doi: 10.1016/j.ebiom.2024.105056</p>
+
+<p>Best L, Dost T, Esser D, Flor S, Haase M, Kadibalban AS, Marinos G, Walker A, Zimmermann J, Simon R, Schmidt S, Taubenheim J, Kunzel S, Hasler R, Groth M, <u>Waschina S</u>, Witte OW, Schmitt-Kopplin P, Baines JF, Frahm C, Kaleta C.<br><a href="http://dx.doi.org/10.1101/2024.03.28.587009"><strong>Metabolic modeling reveals the aging-associated decline of host-microbiome metabolic interactions in mice</strong></a><br>(preprint) <em>bioRxiv</em>. 2024. doi: 10.1101/2024.03.28.587009</p>
+
+<p>Marinos G, Hamerich IK, Debray R, Obeng N, Petersen C, Taubenheim J, Zimmermann J, Blackburn D, Samuel BS, Dierking K, Franke A, Laudes M, <u>Waschina S</u>, Schulenburg H, Kaleta C.<br><a href="http://dx.doi.org/10.1128/spectrum.01144-23"><strong>Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics</strong></a><br><em>Microbiology Spectrum</em>. 2024. 12(2). doi: 10.1128/spectrum.01144-23</p>
+
+<p>Rühlemann MC, Bang C, Gogarten JF, Hermes BM, Groussin M, <u>Waschina S</u>, Poyet M, Ulrich M, Akoua-Koffi C, Deschner T, Muyembe-Tamfum JJ, Robbins MM, Surbeck M, Wittig RM, Zuberbühler K, Baines JF, Leendertz FH, Franke A.<br><a href="http://dx.doi.org/10.1038/s41467-023-44636-7"><strong>Functional host-specific adaptation of the intestinal microbiome in hominids</strong></a><br><em>Nature Communications</em>. 2024. 15(1). doi: 10.1038/s41467-023-44636-7</p>
+
+<h3 id="2023">2023</h3>
+
+<p>Rühlemann M, <u>Waschina S</u>, Wacker EM, Rausch P, Schaan A, Zafroon Z, Franzpötter K, Jacobs G, Ellinghaus D, Kruse R, Bergemalm D, Halfvarson J, Ziemann M, Görg S, Lieb W, Schreiber S, Poyet M, Bang C, Franke A, Groussin M.<br><a href="http://dx.doi.org/10.1101/2023.12.10.23299783"><strong>Disease signatures in the gut metagenome of a prospective family cohort of inflammatory bowel disease</strong></a><br>(preprint) <em>medRxiv</em>. 2023. doi: 10.1101/2023.12.10.23299783</p>
+
+<p>Wijewardene L, Schwenker JA, Friedrichsen M, Jensen A, Löbel F, Austen T, Ulrich U, Fohrer N, Bang C, <u>Waschina S</u>, Hölzel CS.<br><a href="http://dx.doi.org/10.1111/1462-2920.16535"><strong>Selection of aquatic microbiota exposed to the herbicides flufenacet and metazachlor</strong></a><br><em>Environmental Microbiology</em>. 2023. 25(12). doi: 10.1111/1462-2920.16535</p>
+
+<p>Saha S, Kalathera J, Sumi TS, Mane V, <u>Zimmermann S</u>, <u>Waschina S</u>, Pande S.<br><a href="http://dx.doi.org/10.1101/2023.11.20.567171"><strong>Mass lysis of bacterial predators drives the enrichment of antibiotic resistance in soil microbial communities</strong></a><br>(preprint) <em>bioRxiv</em>. 2023. doi: 10.1101/2023.11.20.567171</p>
+
+<p><u>Starke S</u>, <u>Harris DMM</u>, Zimmermann J, Schuchardt S, Oumari M, Frank D, Bang C, Rosenstiel P, Schreiber S, Frey N, Franke A, Aden K, <u>Waschina S</u>.<br><a href="http://dx.doi.org/10.1038/s41396-023-01537-3"><strong>Amino acid auxotrophies in human gut bacteria are linked to higher microbiome diversity and long-term stability</strong></a><br><em>The ISME Journal</em>. 2023. 17(12). doi: 10.1038/s41396-023-01537-3</p>
+
+<p>Blesl A, Wurm P, <u>Waschina S</u>, Gröchenig HP, Novacek G, Primas C, Reinisch W, Kutschera M, Illiasch C, Hennlich B, Steiner P, Koch R, Tillinger W, Haas T, Reicht G, Mayer A, Ludwiczek O, Miehsler W, Steidl K, Binder L, Reider S, Watschinger C, Fürst S, Kump P, Moschen A, Aden K, Gorkiewicz G, Högenauer C.<br><a href="http://dx.doi.org/10.1093/ibd/izad126"><strong>Prediction of Response to Systemic Corticosteroids in Active UC by Microbial Composition—A Prospective Multicenter Study</strong></a><br><em>Inflammatory Bowel Diseases</em>. 2023. 30(1). doi: 10.1093/ibd/izad126</p>
+
+<p>Effenberger M, <u>Waschina S</u>, Bronowski C, Sturm G, <u>Tassiello O</u>, Sommer F, Zollner A, Watschinger C, Grabherr F, Gstir R, Grander C, Enrich B, Bale R, Putzer D, Djanani A, Moschen AR, Zoller H, Rupp J, Schreiber S, Burcelin R, Lass-Flörl C, Trajanoski Z, Oberhuber G, Rosenstiel P, Adolph TE, Aden K, Tilg H.<br><a href="http://dx.doi.org/10.1097/HC9.0000000000000182"><strong>A gut bacterial signature in blood and liver tissue characterizes cirrhosis and hepatocellular carcinoma</strong></a><br><em>Hepatology Communications</em>. 2023. 7(7). doi: 10.1097/hc9.0000000000000182</p>
+
+<h3 id="2022">2022</h3>
+
+<p>Jensen-Kroll J, Demetrowitsch T, Clawin-Rädecker I, Klempt M, <u>Waschina S</u>, Schwarz K.<br><a href="http://dx.doi.org/10.3389/fmolb.2022.968643"><strong>Microbiota independent effects of oligosaccharides on Caco-2 cells -A semi-targeted metabolomics approach using DI-FT-ICR-MS coupled with pathway enrichment analysis</strong></a><br><em>Frontiers in Molecular Biosciences</em>. 2022. 9. doi: 10.3389/fmolb.2022.968643</p>
+
+<p><u>Waschina S</u>, Seeger K.<br><a href="http://dx.doi.org/10.1016/j.aca.2022.340419"><strong>Using in-tube extraction and slice selective NMR experiments allow imaging via statistical analysis of metabolic profiles</strong></a><br><em>Analytica Chimica Acta</em>. 2022. 1231. doi: 10.1016/j.aca.2022.340419</p>
+
+<p>Troci A, Rausch P, <u>Waschina S</u>, Lieb W, Franke A, Bang C.<br><a href="http://dx.doi.org/10.1002/mnfr.202101098"><strong>Long‐Term Dietary Effects on Human Gut Microbiota Composition Employing Shotgun Metagenomics Data Analysis</strong></a><br><em>Molecular Nutrition &amp; Food Research</em>. 2022. 67(24). doi: 10.1002/mnfr.202101098</p>
+
+<p>Schwenker JA, Friedrichsen M, <u>Waschina S</u>, Bang C, Franke A, Mayer R, Hölzel CS.<br><a href="http://dx.doi.org/10.1002/mbo3.1275"><strong>Bovine milk microbiota: Evaluation of different DNA extraction protocols for challenging samples</strong></a><br><em>MicrobiologyOpen</em>. 2022. 11(2). doi: 10.1002/mbo3.1275</p>
+
+<p>Bossung V, Lupatsii M, Dashdorj L, <u>Tassiello O</u>, Jonassen S, Pagel J, Demmert M, Wolf EA, Rody A, <u>Waschina S</u>, Graspeuntner S, Rupp J, Härtel C.<br><a href="http://dx.doi.org/10.1080/19490976.2022.2038855"><strong>Timing of antimicrobial prophylaxis for cesarean section is critical for gut microbiome development in term born infants</strong></a><br><em>Gut Microbes</em>. 2022. 14(1). doi: 10.1080/19490976.2022.2038855</p>
+
+<h3 id="2021">2021</h3>
+
+<p>Giri S, Oña L, <u>Waschina S</u>, Shitut S, Yousif G, Kaleta C, Kost C.<br><a href="http://dx.doi.org/10.1016/j.cub.2021.10.019"><strong>Metabolic dissimilarity determines the establishment of cross-feeding interactions in bacteria</strong></a><br><em>Current Biology</em>. 2021. 31(24). doi: 10.1016/j.cub.2021.10.019</p>
+
+<p>Schönborn JW, Stewart FA, Enriquez KM, Akhtar I, Droste A, <u>Waschina S</u>, Beller M.<br><a href="http://dx.doi.org/10.1016/j.isci.2021.103216"><strong>Modeling Drosophila gut microbe interactions reveals metabolic interconnectivity</strong></a><br><em>iScience</em>. 2021. 24(11). doi: 10.1016/j.isci.2021.103216</p>
+
+<p>Josephs-Spaulding J, Krogh TJ, Rettig HC, Lyng M, Chkonia M, <u>Waschina S</u>, Graspeuntner S, Rupp J, Møller-Jensen J, Kaleta C.<br><a href="http://dx.doi.org/10.3389/fcimb.2021.562525"><strong>Recurrent Urinary Tract Infections: Unraveling the Complicated Environment of Uncomplicated rUTIs</strong></a><br><em>Frontiers in Cellular and Infection Microbiology</em>. 2021. 11. doi: 10.3389/fcimb.2021.562525</p>
+
+<p>Zimmermann J, Kaleta C, <u>Waschina S</u>.<br><a href="http://dx.doi.org/10.1186/s13059-021-02295-1"><strong>gapseq: informed prediction of bacterial metabolic pathways and reconstruction of accurate metabolic models</strong></a><br><em>Genome Biology</em>. 2021. 22(1). doi: 10.1186/s13059-021-02295-1</p>
+
+<p>Schilf P, Künstner A, Olbrich M, <u>Waschina S</u>, Fuchs B, Galuska CE, Braun A, Neuschütz K, Seutter M, Bieber K, Hellberg L, Sina C, Laskay T, Rupp J, Ludwig RJ, Zillikens D, Busch H, Sadik CD, Hirose M, Ibrahim SM.<br><a href="http://dx.doi.org/10.3390/ijms22031006"><strong>A Mitochondrial Polymorphism Alters Immune Cell Metabolism and Protects Mice from Skin Inflammation</strong></a><br><em>International Journal of Molecular Sciences</em>. 2021. 22(3). doi: 10.3390/ijms22031006</p>
+
+<h3 id="2020">2020</h3>
+
+<p>Effenberger M, Reider S, <u>Waschina S</u>, Bronowski C, Enrich B, Adolph TE, Koch R, Moschen AR, Rosenstiel P, Aden K, Tilg H.<br><a href="http://dx.doi.org/10.1093/ecco-jcc/jjaa152"><strong>Microbial Butyrate Synthesis Indicates Therapeutic Efficacy of Azathioprine in IBD Patients</strong></a><br><em>Journal of Crohn’s and Colitis</em>. 2020. 15(1). doi: 10.1093/ecco-jcc/jjaa152</p>
+
+<p>Demetrowitsch TJ, Schlicht K, Knappe C, Zimmermann J, Jensen-Kroll J, <u>Pisarevskaja A</u>, Brix F, Brandes J, Geisler C, Marinos G, Sommer F, Schulte DM, Kaleta C, Andersen V, Laudes M, Schwarz K, <u>Waschina S</u>.<br><a href="http://dx.doi.org/10.3389/fimmu.2020.587895"><strong>Precision Nutrition in Chronic Inflammation</strong></a><br><em>Frontiers in Immunology</em>. 2020. 11. doi: 10.3389/fimmu.2020.587895</p>
+
+<p>Pagel J, Twisselmann N, Rausch TK, <u>Waschina S</u>, Hartz A, Steinbeis M, Olbertz J, Nagel K, Steinmetz A, Faust K, Demmert M, Göpel W, Herting E, Rupp J, Härtel C.<br><a href="http://dx.doi.org/10.3389/fimmu.2020.565257"><strong>Increased Regulatory T Cells Precede the Development of Bronchopulmonary Dysplasia in Preterm Infants</strong></a><br><em>Frontiers in Immunology</em>. 2020. 11. doi: 10.3389/fimmu.2020.565257</p>
+
+<p>Bhat J, Bergmann AK, <u>Waschina S</u>, Nerl C, Kaleta C, Siebert R, Ammerpohl O, Kabelitz D.<br><a href="http://dx.doi.org/10.1038/s41423-020-0518-4"><strong>DNA methylation profile of a hepatosplenic gamma/delta T-cell lymphoma patient associated with response to interferon-α therapy</strong></a><br><em>Cellular &amp; Molecular Immunology</em>. 2020. 18(5). doi: 10.1038/s41423-020-0518-4</p>
+
+<p>Marinos G, Kaleta C, <u>Waschina S</u>.<br><a href="http://dx.doi.org/10.1371/journal.pone.0236890"><strong>Defining the nutritional input for genome-scale metabolic models: A roadmap</strong></a><br><em>PLOS ONE</em>. 2020. 15(8). doi: 10.1371/journal.pone.0236890</p>
+
+<h3 id="2019">2019</h3>
+
+<p>Aden K, Rehman A, <u>Waschina S</u>, Pan WH, Walker A, Lucio M, Nunez AM, Bharti R, Zimmerman J, Bethge J, Schulte B, Schulte D, Franke A, Nikolaus S, Schroeder JO, Vandeputte D, Raes J, Szymczak S, Waetzig GH, Zeuner R, Schmitt-Kopplin P, Kaleta C, Schreiber S, Rosenstiel P.<br><a href="http://dx.doi.org/10.1053/j.gastro.2019.07.025"><strong>Metabolic Functions of Gut Microbes Associate With Efficacy of Tumor Necrosis Factor Antagonists in Patients With Inflammatory Bowel Diseases</strong></a><br><em>Gastroenterology</em>. 2019. 157(5). doi: 10.1053/j.gastro.2019.07.025</p>
+
+<p>Giri S, <u>Waschina S</u>, Kaleta C, Kost C.<br><a href="http://dx.doi.org/10.1016/j.jmb.2019.06.023"><strong>Defining Division of Labor in Microbial Communities</strong></a><br><em>Journal of Molecular Biology</em>. 2019. 431(23). doi: 10.1016/j.jmb.2019.06.023</p>
+
+<p>Zimmermann J, Obeng N, Yang W, Pees B, Petersen C, <u>Waschina S</u>, Kissoyan KA, Aidley J, Hoeppner MP, Bunk B, Spröer C, Leippe M, Dierking K, Kaleta C, Schulenburg H.<br><a href="http://dx.doi.org/10.1038/s41396-019-0504-y"><strong>The functional repertoire contained within the native microbiota of the model nematode<i>Caenorhabditis elegans</i></strong></a><br><em>The ISME Journal</em>. 2019. 14(1). doi: 10.1038/s41396-019-0504-y</p>
+
+<p>Pryor R, Norvaisas P, Marinos G, Best L, Thingholm LB, Quintaneiro LM, De Haes W, Esser D, <u>Waschina S</u>, Lujan C, Smith RL, Scott TA, Martinez-Martinez D, Woodward O, Bryson K, Laudes M, Lieb W, Houtkooper RH, Franke A, Temmerman L, Bjedov I, Cochemé HM, Kaleta C, Cabreiro F.<br><a href="http://dx.doi.org/10.1016/j.cell.2019.08.003"><strong>Host-Microbe-Drug-Nutrient Screen Identifies Bacterial Effectors of Metformin Therapy</strong></a><br><em>Cell</em>. 2019. 178(6). doi: 10.1016/j.cell.2019.08.003</p>
+
+<p>Yang W, Petersen C, Pees B, Zimmermann J, <u>Waschina S</u>, Dirksen P, Rosenstiel P, Tholey A, Leippe M, Dierking K, Kaleta C, Schulenburg H.<br><a href="http://dx.doi.org/10.3389/fmicb.2019.01793"><strong>The Inducible Response of the Nematode Caenorhabditis elegans to Members of Its Natural Microbiota Across Development and Adult Life</strong></a><br><em>Frontiers in Microbiology</em>. 2019. 10. doi: 10.3389/fmicb.2019.01793</p>
+
+<h3 id="2018">2018</h3>
+
+<p>Graspeuntner S, <u>Waschina S</u>, Künzel S, Twisselmann N, Rausch TK, Cloppenborg-Schmidt K, Zimmermann J, Viemann D, Herting E, Göpel W, Baines JF, Kaleta C, Rupp J, Härtel C, Pagel J.<br><a href="http://dx.doi.org/10.1093/cid/ciy882"><strong>Gut Dysbiosis With Bacilli Dominance and Accumulation of Fermentation Products Precedes Late-onset Sepsis in Preterm Infants</strong></a><br><em>Clinical Infectious Diseases</em>. 2018. 69(2). doi: 10.1093/cid/ciy882</p>
+
+<p>D’Souza G, Shitut S, Preussger D, Yousif G, <u>Waschina S</u>, Kost C.<br><a href="http://dx.doi.org/10.1039/c8np00009c"><strong>Ecology and evolution of metabolic cross-feeding interactions in bacteria</strong></a><br><em>Natural Product Reports</em>. 2018. 35(5). doi: 10.1039/c8np00009c</p>
+
+<h3 id="2016">2016</h3>
+
+<p><u>Waschina S</u>, D’Souza G, Kost C, Kaleta C.<br><a href="http://dx.doi.org/10.1111/febs.13727"><strong>Metabolic network architecture and carbon source determine metabolite production costs</strong></a><br><em>The FEBS Journal</em>. 2016. 283(11). doi: 10.1111/febs.13727</p>
+
+<p>Gebauer J, Gentsch C, Mansfeld J, Schmeißer K, <u>Waschina S</u>, Brandes S, Klimmasch L, Zamboni N, Zarse K, Schuster S, Ristow M, Schäuble S, Kaleta C.<br><a href="http://dx.doi.org/10.1016/j.cels.2016.04.017"><strong>A Genome-Scale Database and Reconstruction of Caenorhabditis elegans Metabolism</strong></a><br><em>Cell Systems</em>. 2016. 2(5). doi: 10.1016/j.cels.2016.04.017</p>
+
+<h3 id="2015">2015</h3>
+
+<p>D’Souza G, <u>Waschina S</u>, Kaleta C, Kost C.<br><a href="http://dx.doi.org/10.1111/evo.12640"><strong>Plasticity and epistasis strongly affect bacterial fitness after losing multiple metabolic genes</strong></a><br><em>Evolution</em>. 2015. 69(5). doi: 10.1111/evo.12640</p>
+
+<h3 id="2014">2014</h3>
+
+<p>Schmidt R, <u>Waschina S</u>, Boettger-Schmidt D, Kost C, Kaleta C.<br><a href="http://dx.doi.org/10.1093/bioinformatics/btu658"><strong>Computing autocatalytic sets to unravel inconsistencies in metabolic network reconstructions</strong></a><br><em>Bioinformatics</em>. 2014. 31(3). doi: 10.1093/bioinformatics/btu658</p>
+
+<p>D’Souza G, <u>Waschina S</u>, Pande S, Bohl K, Kaleta C, Kost C.<br><a href="http://dx.doi.org/10.1111/evo.12468"><strong>LESS IS MORE: SELECTIVE ADVANTAGES CAN EXPLAIN THE PREVALENT LOSS OF BIOSYNTHETIC GENES IN BACTERIA</strong></a><br><em>Evolution</em>. 2014. 68(9). doi: 10.1111/evo.12468</p>
+
+
+
+    </div>
+
+</article>
+<div class="post-nav">
+<span></span><span></span>
+</div>
+<div class="post-comments"></div></section>
+</div>
+
+
+  </section>
+  <section class="sidebar" style="margin-left: 15px;">
+    <!-- Get sidebar items --><style type="text/css" media="screen">
+.post-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+</style>
+
+<div class="post-menu">
+  <div class="post-menu-title">Contents</div>
+  <div class="post-menu-content"></div>
+</div>
+
+<script>
+  function generateContent() {
+    var menu = document.querySelector(".post-menu");
+    var menuContent =  menu.querySelector(".post-menu-content");
+    var headings = document.querySelector(".post-content").querySelectorAll("h2, h3, h4, h5, h6");
+
+    // Hide menu when no headings
+    if (headings.length === 0) {
+      return menu.style.display = "none";
+    }
+
+    // Generate post menu
+    var menuHTML = '';
+    for (var i = 0; i < headings.length; i++) {
+      var h = headings[i];
+      menuHTML += (
+        '<li class="h-' + h.tagName.toLowerCase() + '">'
+        + '<a href="#h-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
+    }
+
+    menuContent.innerHTML = '<ul>' + menuHTML + '</ul>';
+
+    // The header element
+    var header = document.querySelector('header.site-header');
+
+    function doMenuCollapse(index, over_items) {
+      var items = menuContent.firstChild.children;
+
+      if (over_items == undefined) {
+        over_items = 20;
+      }
+
+      if (items.length < over_items) {
+        return;
+      }
+
+      var activeItem = items[index];
+      var beginItem = activeItem
+      var endItem = activeItem
+      var beginIndex = index;
+      var endIndex = index + 1;
+      while (beginIndex >= 0
+        && !items[beginIndex].classList.contains('h-h2')) {
+        beginIndex -= 1;
+      }
+      while (endIndex < items.length
+        && !items[endIndex].classList.contains('h-h2')) {
+        endIndex += 1;
+      }
+      for (var i = 0; i < beginIndex; i++) {
+        item = items[i]
+        if (!item.classList.contains('h-h2')) {
+          item.style.display = 'none';
+        }
+      }
+      for (var i = beginIndex + 1; i < endIndex; i++) {
+        item = items[i]
+        // if (!item.classList.contains('h-h2')) {
+          item.style.display = '';
+        // }
+      }
+      for (var i = endIndex; i < items.length; i++) {
+        item = items[i]
+        if (!item.classList.contains('h-h2')) {
+          item.style.display = 'none';
+        }
+      }
+    }
+
+    // Init menu collapsed
+    doMenuCollapse(-1);
+
+    // Active the menu item
+    window.addEventListener('scroll', function (event) {
+      var lastActive = menuContent.querySelector('.active');
+      var changed = true;
+      var activeIndex = -1;
+      for (var i = headings.length - 1; i >= 0; i--) {
+        var h = headings[i];
+        var headingRect = h.getBoundingClientRect();
+        var headerRect = header.getBoundingClientRect();
+        var headerTop = Math.floor(headerRect.top);
+        var headerHeight = Math.floor(headerRect.height);
+        var headerHeight = headerTop + headerHeight + 20;
+        if (headingRect.top <= headerHeight) {
+          var id = 'h-' + h.getAttribute('id');
+          var a = menuContent.querySelector('a[href="#' + id  + '"]');
+          var curActive = a.parentNode;
+          if (curActive) {
+            curActive.classList.add('active');
+            activeIndex = i;
+          }
+          if (lastActive == curActive) {
+            changed = false;
+          }
+          break;
+        }
+      }
+      if (changed) {
+        if (lastActive) {
+          lastActive.classList.remove('active');
+        }
+        doMenuCollapse(activeIndex);
+      }
+      event.preventDefault();
+    });
+  }
+  generateContent();
+</script>
+</section>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner">
+<div>Copyright © 2022-2025 Nutriinformatics group</div>
+      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
+      generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
+      another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
+      <div class="footer-col rss-subscribe">Subscribe <a href="/feed.xml">via RSS</a>
+</div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
